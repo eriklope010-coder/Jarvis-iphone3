@@ -1,0 +1,7 @@
+JARVIS iPhone Gold — Compañero personal
+
+Esta versión actualiza los textos para que JARVIS se presente como un compañero cercano, añade respuestas locales básicas y empáticas para mensajes como «estoy triste», «estoy agobiado» o «necesito un consejo», y conserva el reconocimiento de voz y los accesos rápidos.
+
+IMPORTANTE: Esta versión NO tiene aún un modelo de IA online conectado. Las respuestas empáticas son reglas predefinidas; no equivale a una conversación libre ni garantiza información completa o actualizada. Para lograr conversación natural, responder preguntas abiertas y mantener contexto, hay que conectar una API de IA a través de un backend seguro. No publiques claves secretas en GitHub ni dentro de index.html.
+
+Para actualizar GitHub: descomprime el ZIP y sube los archivos a la raíz del repositorio Jarvis-iphone-gold, sustituyendo los existentes, y confirma con Commit changes. Después recarga la página publicada.
